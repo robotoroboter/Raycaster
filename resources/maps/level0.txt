@@ -1,0 +1,38 @@
+map_name: level  
+map_desc: this is a test level
+
+
+
+
+
+
+
+map_code:
+xxxxxxxxxxxxxxxx
+xwwwxssssssx   x
+xwwwxssxsssx   x
+xwwwxxxxsssx   x
+xwwwwwwwwwwx   x
+xwwwwwwwwww    x
+xxxxxxxxxxxx   x
+x              x
+x              x
+xgggggxssssssssx
+xgggggxssssssssx
+xgggggxssssssssx
+xgggggxxxxsssxxx
+xgggggxccccccccx
+xgggggxccccccccx
+xxxxxxxxxxxxxxxx
+
+legend:
+x - brick wall
+  - stone floor
+g - ugly floor
+c - chess floor
+w - wooden floor
+s - sandstone floor
+
+
+
+
